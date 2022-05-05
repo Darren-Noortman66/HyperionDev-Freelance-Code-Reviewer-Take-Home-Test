@@ -1,7 +1,11 @@
-# PoisedPMS (2nd Edition/ Database Edition)
+# Section A: Code Review - Option 2: Java Task
+
+## Question Response
+
+gfdgdgfdgdfgdgdf
+
 
 ## Scores
-
 
 * **Correctness**
 
@@ -15,10 +19,6 @@
 * **Documentation**
     
     This project is meant to store the projects inserted by the employees of Poised. Each project will have unique data that defines it. Each project will also have information regarding the people involved with it. New projects can be added and viewed.
-
-
-## Positive Aspects for Task Submission
-
 
 
 ## Overall Feedback
