@@ -77,6 +77,10 @@ def num_to_word(num):
         return num_to_word(num // trillion) + ' trillion, ' + num_to_word(num % trillion)
 
 
+"""
+Printing some numbers to give you an example of how the function works.
+I only put the print function in the same file to make the explanation simple.
+"""
 print(num_to_word(90376000010012))
 print(num_to_word(-1))
 print(num_to_word(999999999999999))
