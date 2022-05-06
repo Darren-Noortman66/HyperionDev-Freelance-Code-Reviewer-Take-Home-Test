@@ -19,4 +19,4 @@ Now that you have the program running, you will see print statements in the main
 
 To test the code, you can apply the same logic as above to the 'main_test.py' file.
 
-**(NB: When installing PyCharm, make sure you install the correct package for your operating system e.g Windows. The use of PyCharm is universal.**
+**(NB: When installing PyCharm, make sure you install the correct package for your operating system e.g Windows. The use of PyCharm is universal.)**
