@@ -17,6 +17,6 @@ Once you have the IDE/ IDLE setup, then run the 'main.java' file. This is the ma
 
 Now that you have the program running, you will see print statements in the main method. Change the numbers in the num_to_word function to obtain different results. 
 
-To test the code, you can apply the same logic as above to the 'main_test.py' file.
+To test the code, you can apply the same logic as above to the 'test_main.py' file.
 
 **(NB: When installing PyCharm, make sure you install the correct package for your operating system e.g Windows. The use of PyCharm is universal.)**
