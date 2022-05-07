@@ -20,3 +20,10 @@ Now that you have the program running, you will see print statements in the main
 To test the code, you can apply the same logic as above to the 'test_main.py' file.
 
 **(NB: When installing PyCharm, make sure you install the correct package for your operating system e.g Windows. The use of PyCharm is universal.)**
+
+
+## References
+
+https://codereview.stackexchange.com/questions/173971/converting-number-to-words
+https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
+https://www.tutorialspoint.com/integer-to-english-words-in-python-programming
