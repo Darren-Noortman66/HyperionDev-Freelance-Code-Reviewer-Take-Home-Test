@@ -94,6 +94,7 @@ Your code is well commented and it is structured neatly. You also showed good un
 ## Aspects that could be improved
 
 I would focus on changing your approach for the Fibonacci Series to fit with a recursive method and just fixing the few errors in your code.
+Refer to the comments above on how to fix your solution.
 
 ## Overall Feedback
 
