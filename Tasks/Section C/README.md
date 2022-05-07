@@ -24,11 +24,11 @@ To test the code, you can apply the same logic as above to the 'test_main.py' fi
 
 ## References
 
-https://codereview.stackexchange.com/questions/173971/converting-number-to-words
+Sagar Devkota (2017). Converting number to words - CodeReview. Retrieved 6 May 2022,
+from https://codereview.stackexchange.com/questions/173971/converting-number-to-words
 
-https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
+Juliomalegria (2012). How do I tell Python to convert integers into words - stackoverflow. Retrieved 6 May 2022,
+from https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
 
-https://www.tutorialspoint.com/integer-to-english-words-in-python-programming
-
-- GentlemanlyScholar (2015). Java seems to be ignoring my toString method - stackOverflow. Retrieved 25 April 2021,
-  from https://stackoverflow.com/questions/23508491/java-seems-to-be-ignoring-my-tostring-method
+Arnab Chakraborty (2020). Integer to English Words in Python Programming - tutorialspoint. Retrieved 6 May 2022,
+from https://www.tutorialspoint.com/integer-to-english-words-in-python-programming
