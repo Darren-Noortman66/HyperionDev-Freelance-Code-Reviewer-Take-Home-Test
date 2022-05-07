@@ -25,5 +25,10 @@ To test the code, you can apply the same logic as above to the 'test_main.py' fi
 ## References
 
 https://codereview.stackexchange.com/questions/173971/converting-number-to-words
+
 https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
+
 https://www.tutorialspoint.com/integer-to-english-words-in-python-programming
+
+- GentlemanlyScholar (2015). Java seems to be ignoring my toString method - stackOverflow. Retrieved 25 April 2021,
+  from https://stackoverflow.com/questions/23508491/java-seems-to-be-ignoring-my-tostring-method
